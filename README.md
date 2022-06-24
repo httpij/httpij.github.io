@@ -18,12 +18,6 @@
 10. Click the download button to start the downloading process.
 
 
-
-
-
-![Canon.com/ijsetup](https://github.com/httpij/httpij.github.io/blob/main/canon-512.png)
-
-
 ## Setup canon ij setup from Canon.com/ijsetup
 1. Go to the official website of canon
 2. To visit click here - **[canon.com/ijsetup](https://httpij.github.io/)**.
