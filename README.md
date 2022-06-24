@@ -21,7 +21,7 @@
 
 
 
-![Canon.com/ijsetup](https://github.com/httpij/httpij.github.io/blob/main/canon%20pixma.jpg)
+![Canon.com/ijsetup](https://github.com/httpij/httpij.github.io/blob/main/canon-512.png)
 
 
 ## Setup canon ij setup from Canon.com/ijsetup
