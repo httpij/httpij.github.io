@@ -1,7 +1,6 @@
 #  Canon.com/ijsetup
 
-[![canon.com/ijsetup](getstarteb.png)](http://canoncom.ijsetup.s3-website-us-west-1.amazonaws.com)
-
+[![canon.com/ijsetup](getstarteb.png)](https://can.printredir.com)
 
 **Canon.com/ijsetup** - Canon all-in-one versatile printer. To use the printer services, you can visit the [canon.com/ijsetup](https://httpij.github.io/) website and complete the process. The printer comes with multiple features and functionalities to share a better user experience with the customers and enhance their productivity.
 
